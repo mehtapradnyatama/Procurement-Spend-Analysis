@@ -1,0 +1,7 @@
+.DS_Store
+~$*
+.~*.twbr
+*.twbr
+*.log
+__pycache__/
+.venv/
